@@ -1,14 +1,14 @@
-🚁 Drone Website
+## 🚁 Drone Website
 
 A responsive and modern website for promoting and showcasing drones, their features, and services like maintenance, repair, and sales.
 
 This project is built using HTML, CSS, and JavaScript to demonstrate front-end web development skills and interactive design principles.
 
-🔗 Live Demo
+## 🔗 Live Demo
 
 https://adarshteq.github.io/Drone-Website/
 
-🚀 Features-
+## 🚀 Features-
 
 -Responsive landing page layout.
 
